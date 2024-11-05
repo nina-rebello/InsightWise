@@ -18,6 +18,7 @@ The application offers a clear view of how employees are utilizing the provided 
 
 # Vídeos de apresentação
 - [Aplicação em JAVA](https://www.youtube.com/watch?v=SWA94V1H_Y0)
+- [Versão Mobile](https://youtu.be/B6ZZIZmo8L0)
 - [Reflexão e produto final](https://youtu.be/W4cTeR_WAZM)
   
 # Repositories

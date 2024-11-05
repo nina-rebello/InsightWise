@@ -16,10 +16,10 @@ The application offers a clear view of how employees are utilizing the provided 
 - Nina Rebello Francisco - https://github.com/nina-rebello
 - Vitória Maria de Camargo - https://github.com/VitoriaMdeCamargo
 
-# Vídeos de apresentação
-- [Aplicação em JAVA](https://www.youtube.com/watch?v=SWA94V1H_Y0)
-- [Versão Mobile](https://youtu.be/B6ZZIZmo8L0)
-- [Reflexão e produto final](https://youtu.be/W4cTeR_WAZM)
+# Presentation Videos
+- [Java Application](https://www.youtube.com/watch?v=SWA94V1H_Y0)
+- [Mobile Version](https://youtu.be/B6ZZIZmo8L0)
+- [Reflection and Final Product](https://youtu.be/W4cTeR_WAZM)
   
 # Repositories
 
